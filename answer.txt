@@ -1,0 +1,5 @@
+Câu 1:
+Khi ta lựa chọn cancel màn hình sẽ hiển thị ta lựa chọn NO
+Câu 2:
+Sử dung câu lệnh
+int option = JOptionPane.showConfirmDialog(null, "I do", "I don't", JOptionPane.YES_NO_OPTION);
